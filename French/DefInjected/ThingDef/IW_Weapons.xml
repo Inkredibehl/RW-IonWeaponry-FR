@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: heavy ion lance bullet -->
+<IW_Bullet_HeavyIonLance.label>Balle de lance à ions lourds</IW_Bullet_HeavyIonLance.label>
+
+<!-- EN: ion blast -->
+<IW_Bullet_IonBlast.label>Explosion ionique</IW_Bullet_IonBlast.label>
+
+<!-- EN: Ion DMR bullet -->
+<IW_Bullet_IonDMR.label>Balle de DMR ionique</IW_Bullet_IonDMR.label>
+
+<!-- EN: ion lmg bullet -->
+<IW_Bullet_IonLMG.label>Balle de LMG ionique</IW_Bullet_IonLMG.label>
+
+<!-- EN: ion pdw bullet -->
+<IW_Bullet_IonPDW.label>Balle de PDW ionique</IW_Bullet_IonPDW.label>
+
+<!-- EN: ion pistol bullet -->
+<IW_Bullet_IonPistol.label>Balle de pistolet ionique</IW_Bullet_IonPistol.label>
+
+<!-- EN: ion rifle bullet -->
+<IW_Bullet_IonRifle.label>Balle de fusil ionique</IW_Bullet_IonRifle.label>
+
+<!-- EN: ion slug -->
+<IW_Bullet_IonSlug.label>Projectile ionique</IW_Bullet_IonSlug.label>
+
+<!-- EN: heavy ion lance -->
+<IW_Gun_HeavyIonLance.label>Lance à ions lourds</IW_Gun_HeavyIonLance.label>
+<!-- EN: A long-range siege weapon of spacer make, developed during mechanoid wars to disrupt mech cluster fortifications. Heavy and somewhat cumbersome, it can launch a large tungsten spike carrying ionizing particles, which when sufficiently built up release into an EMP pulse; or discharge its capacitor in a direct EMP blast. -->
+<IW_Gun_HeavyIonLance.description>Une arme de siège à longue portée fabriquée avec des matériaux sophistiqués, développée pendant les guerres contre les méchanoïdes pour perturber les fortifications des clusters méchanoïdes. Lourde et quelque peu encombrante, elle peut lancer une grande pointe de tungstène contenant des particules ionisantes, qui, lorsqu'elles sont suffisamment accumulées, se libèrent en une impulsion EMP ; ou décharger son condensateur en une explosion EMP directe.</IW_Gun_HeavyIonLance.description>
+<!-- EN: ion charge -->
+<IW_Gun_HeavyIonLance.comps.CompEquippableAbilityReloadable.chargeNoun>Charge ionique</IW_Gun_HeavyIonLance.comps.CompEquippableAbilityReloadable.chargeNoun>
+<!-- EN: on cooldown -->
+<IW_Gun_HeavyIonLance.comps.CompEquippableAbilityReloadable.cooldownGerund>en cours de refroidissement</IW_Gun_HeavyIonLance.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<!-- EN: stock -->
+<IW_Gun_HeavyIonLance.tools.stock.label>Crosse</IW_Gun_HeavyIonLance.tools.stock.label>
+<!-- EN: barrel -->
+<IW_Gun_HeavyIonLance.tools.barrel.label>Canon</IW_Gun_HeavyIonLance.tools.barrel.label>
+<!-- EN: heavy ion lance -->
+<IW_Gun_HeavyIonLance.verbs.Verb_Shoot.label>Tirer</IW_Gun_HeavyIonLance.verbs.Verb_Shoot.label>
+
+<!-- EN: ion DMR -->
+<IW_Gun_IonDMR.label>DMR ionique</IW_Gun_IonDMR.label>
+<!-- EN: A lightweight rail DMR of spacer make, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a tungsten spike at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonDMR.description>Un DMR à rail léger fabriqué avec des matériaux sophistiqués, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance une pointe de tungstène à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonDMR.description>
+<!-- EN: stock -->
+<IW_Gun_IonDMR.tools.stock.label>Crosse</IW_Gun_IonDMR.tools.stock.label>
+<!-- EN: barrel -->
+<IW_Gun_IonDMR.tools.barrel.label>Canon</IW_Gun_IonDMR.tools.barrel.label>
+<!-- EN: ion DMR -->
+<IW_Gun_IonDMR.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonDMR.verbs.Verb_Shoot.label>
+
+<!-- EN: ion LMG -->
+<IW_Gun_IonLMG.label>LMG ionique</IW_Gun_IonLMG.label>
+<!-- EN: A chainsaw grip rail LMG of spacer make designed for hip firing, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a barrage of small tungsten spikes at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonLMG.description>Un LMG à rail avec poignée de tronçonneuse fabriqué avec des matériaux sophistiqués et conçu pour être tiré à la hanche, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance une rafale de petites pointes de tungstène à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonLMG.description>
+<!-- EN: grip -->
+<IW_Gun_IonLMG.tools.grip.label>Poignée</IW_Gun_IonLMG.tools.grip.label>
+<!-- EN: barrel -->
+<IW_Gun_IonLMG.tools.barrel.label>Canon</IW_Gun_IonLMG.tools.barrel.label>
+<!-- EN: ion LMG -->
+<IW_Gun_IonLMG.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonLMG.verbs.Verb_Shoot.label>
+
+<!-- EN: ion PDW -->
+<IW_Gun_IonPDW.label>PDW ionique</IW_Gun_IonPDW.label>
+<!-- EN: A lightweight rail PDW of spacer make, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a series of tiny tungsten spikes at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonPDW.description>Un PDW à rail léger fabriqué avec des matériaux sophistiqués, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance une série de petites pointes de tungstène à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonPDW.description>
+<!-- EN: grip -->
+<IW_Gun_IonPDW.tools.grip.label>Poignée</IW_Gun_IonPDW.tools.grip.label>
+<!-- EN: barrel -->
+<IW_Gun_IonPDW.tools.barrel.label>Canon</IW_Gun_IonPDW.tools.barrel.label>
+<!-- EN: ion PDW -->
+<IW_Gun_IonPDW.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonPDW.verbs.Verb_Shoot.label>
+
+<!-- EN: ion pistol -->
+<IW_Gun_IonPistol.label>Pistolet ionique</IW_Gun_IonPistol.label>
+<!-- EN: A lightweight rail pistol of spacer make, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a tiny tungsten spike at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonPistol.description>Un pistolet à rail léger fabriqué avec des matériaux sophistiqués, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance une petite pointe de tungstène à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonPistol.description>
+<!-- EN: grip -->
+<IW_Gun_IonPistol.tools.grip.label>Poignée</IW_Gun_IonPistol.tools.grip.label>
+<!-- EN: barrel -->
+<IW_Gun_IonPistol.tools.barrel.label>Canon</IW_Gun_IonPistol.tools.barrel.label>
+<!-- EN: ion pistol -->
+<IW_Gun_IonPistol.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonPistol.verbs.Verb_Shoot.label>
+
+<!-- EN: ion rifle -->
+<IW_Gun_IonRifle.label>Fusil ionique</IW_Gun_IonRifle.label>
+<!-- EN: A lightweight rail rifle of spacer make, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a series of small tungsten spikes at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonRifle.description>Un fusil à rail léger fabriqué avec des matériaux sophistiqués, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance une série de petites pointes de tungstène à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonRifle.description>
+<!-- EN: grip -->
+<IW_Gun_IonRifle.tools.grip.label>Poignée</IW_Gun_IonRifle.tools.grip.label>
+<!-- EN: barrel -->
+<IW_Gun_IonRifle.tools.barrel.label>Canon</IW_Gun_IonRifle.tools.barrel.label>
+<!-- EN: ion rifle -->
+<IW_Gun_IonRifle.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonRifle.verbs.Verb_Shoot.label>
+
+<!-- EN: ion slugthrower -->
+<IW_Gun_IonSlugthrower.label>Lanceur de projectiles ioniques</IW_Gun_IonSlugthrower.label>
+<!-- EN: A lightweight rail slugthrower of spacer make, developed during mechanoid wars to counter the rampaging warmachines. Reliable and easy to operate, it launches a spike-tipped tungsten slug at supersonic speed, penetrating deep into even the thickest plasteel carapace to deliver a payload of ionizing particles. The particles, once sufficiently built up, release in an electromagnetic pulse, breaking energy shields and stunning any mechanoid caught in the radius. -->
+<IW_Gun_IonSlugthrower.description>Un lanceur de projectiles ioniques léger fabriqué avec des matériaux sophistiqués, développé pendant les guerres contre les méchanoïdes pour contrer les machines de guerre déchaînées. Fiable et facile à utiliser, il lance un projectile en tungstène à pointe à vitesse supersonique, pénétrant profondément dans les carapaces de plastacier les plus épaisses pour délivrer une charge de particules ionisantes. Les particules, une fois suffisamment accumulées, se libèrent en une impulsion électromagnétique, brisant les boucliers énergétiques et étourdissant tout méchanoïde pris dans le rayon.</IW_Gun_IonSlugthrower.description>
+<!-- EN: grip -->
+<IW_Gun_IonSlugthrower.tools.grip.label>Poignée</IW_Gun_IonSlugthrower.tools.grip.label>
+<!-- EN: barrel -->
+<IW_Gun_IonSlugthrower.tools.barrel.label>Canon</IW_Gun_IonSlugthrower.tools.barrel.label>
+<!-- EN: ion slugthrower -->
+<IW_Gun_IonSlugthrower.verbs.Verb_Shoot.label>Tirer</IW_Gun_IonSlugthrower.verbs.Verb_Shoot.label>
+
+  
+</LanguageData>

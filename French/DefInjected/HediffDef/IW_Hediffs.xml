@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: ionization -->
+
+<IW_Ionization.label>Ionisation</IW_Ionization.label>
+<!-- EN: Measure of ionizing particles' buildup. Once it reaches critical level, the particles will release in an EMP pulse. -->
+
+<IW_Ionization.description>Mesure de l'accumulation des particules ionisantes. Une fois qu'elle atteint un niveau critique, les particules seront libérées sous forme d'une impulsion EMP.</IW_Ionization.description>
+<!-- EN: ionized -->
+
+<IW_Ionization.labelNoun>Ionisé</IW_Ionization.labelNoun>
+<!-- EN: low ionization -->
+
+<IW_Ionization.stages.low_ionization.label>Ionisation faible</IW_Ionization.stages.low_ionization.label>
+<!-- EN: medium ionization -->
+
+<IW_Ionization.stages.medium_ionization.label>Ionisation moyenne</IW_Ionization.stages.medium_ionization.label>
+<!-- EN: critical ionization -->
+
+<IW_Ionization.stages.critical_ionization.label>Ionisation critique</IW_Ionization.stages.critical_ionization.label>
+  
+</LanguageData>
