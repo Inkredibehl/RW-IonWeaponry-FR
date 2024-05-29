@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+<!-- EN: ion blast -->
+
+<IW_IonBlast.label>Explosion Ionique</IW_IonBlast.label>
+<!-- EN: Overclock the capacitor to fire a long range EMP blast, which explodes in a large radius upon impact. Holds two charges. Each charge requires reloading the weapon with two components, to repair the overstressed capacitor parts. -->
+
+<IW_IonBlast.description>Suralimentez le condensateur pour tirer une explosion EMP à longue portée, qui explose dans un large rayon à l'impact. Peut contenir deux charges. Chaque charge nécessite le rechargement de l'arme avec deux composants pour réparer les parties surmenées du condensateur.</IW_IonBlast.description>
+  
+</LanguageData>
